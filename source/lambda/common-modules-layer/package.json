@@ -9,7 +9,7 @@
     "dependencies": {
         "@aws-sdk/credential-providers": "^3.511.0",
         "@opensearch-project/opensearch": "^2.5.0",
-        "bodybuilder": "^2.4.0",
+        "bodybuilder": "^2.5.1",
         "intercept-stdout": "^0.1.2",
         "lodash": "^4.17.21"
     },
