@@ -19,7 +19,7 @@
         "@aws-sdk/s3-request-presigner": "^3.511.0",
         "@dqbd/tiktoken": "^1.0.7",
         "aws4": "^1.6.0",
-        "axios": "^1.6.8",
+        "axios": "^1.7.4",
         "bodybuilder": "^2.5.1",
         "handlebars": "^4.7.2",
         "langchain": "^0.0.209",
