@@ -6,3 +6,7 @@ pytest-cov~=4.1.0
 pytest-env~=1.0.0
 pytest-mock~=3.11.1
 pyyaml~=6.0
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
