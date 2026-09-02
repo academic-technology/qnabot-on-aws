@@ -122,7 +122,7 @@
         "quick-lru": "^1.1.0",
         "range": "0.0.3",
         "raw-text": "^1.1.0",
-        "read-excel-file": "^5.7.1",
+        "read-excel-file": "^9.0.0",
         "recursive-readdir": "^2.2.2",
         "require-dir": "^0.3.2",
         "roboto-fontface": "^0.8.0",
