@@ -111,7 +111,7 @@
         "marked": "^4.1.0",
         "material-design-icons": "^3.0.1",
         "minimist": "1.2.6",
-        "moment": "^2.22.2",
+        "moment": "^2.31.0",
         "morgan": "^1.9.0",
         "ora": "^1.4.0",
         "pug": "^3.0.2",
