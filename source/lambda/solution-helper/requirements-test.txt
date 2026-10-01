@@ -4,3 +4,4 @@ coverage
 pytest~=7.4.2
 pytest-cov~=4.1.0
 mock~=5.1.0
+urllib3>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
