@@ -21,6 +21,6 @@
         "jest": "^29.7.0"
     },
     "dependencies": {
-        "@aws-sdk/client-lex-model-building-service": "^3.511.0"
+        "@aws-sdk/client-lex-model-building-service": "^3.894.0"
     }
 }
