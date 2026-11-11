@@ -21,7 +21,7 @@
     },
     "license": "Apache-2.0",
     "dependencies": {
-        "@aws-sdk/client-ssm": "^3.511.0",
+        "@aws-sdk/client-ssm": "^3.894.0",
         "lodash": "^4.17.21"
     },
     "devDependencies": {
