@@ -15,7 +15,7 @@
     "license": "Apache-2.0",
     "dependencies": {
         "@aws-sdk/client-firehose": "^3.511.0",
-        "@aws-sdk/client-sagemaker-runtime": "^3.511.0",
+        "@aws-sdk/client-sagemaker-runtime": "^3.529.0",
         "@aws-sdk/s3-request-presigner": "^3.511.0",
         "@dqbd/tiktoken": "^1.0.7",
         "aws4": "^1.6.0",
