@@ -20,6 +20,6 @@
         "stream": "^0.0.2"
     },
     "dependencies": {
-        "@aws-sdk/client-lex-runtime-v2": "^3.511.0"
+        "@aws-sdk/client-lex-runtime-v2": "^3.894.0"
     }
 }
